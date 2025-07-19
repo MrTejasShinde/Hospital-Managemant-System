@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#header {
+    background-color:  #007c9d;
+}
+#list{
+    list-style-type: none;
+}
+#list a {
+    background-color: #00ab9f;
+    list-style-type: none;
+}
+
+#L1{
+    background-color: #00ab9f ;
+}
+
+#form{
+    height: 500px;
+    background-image: url("../image/appointment_bg\ \(1\).webp");
+    background-size: 95% 100% ;
+    background-repeat: no-repeat;
+
+}
+#Form1{
+    position:absulate;
+   
+    
+
+}
+
+
+#btn{
+    background-color: #00ab9f;
+}
+#txt1,#txt2{
+    color: #007c9d;
+}
+
+#facility{
+    background-color: #007c9d;
+}
+
+#demo div{
+   width: 150px;
+   height: 100px;
+}
+
+#btn{
+    background: #00ab9f;
+    margin: 0px 130px;
+}
+
+#cancer{
+    background-color: #f8f9fa;
+}
+#first{
+    font-size: 17px;
+}
+#second{
+    font-size: 16px;
+}
+#appointement{
+    background-image: url("../image/appointment_bg\ \(1\).webp");
+    height: 500px;
+    
+}
+
+#fabars{
+    display: flex;
+    justify-content: end;
+    height: 20px;
+   
+}
+#heading{
+    display: flex;
+    justify-content: end;
+}
+.btn{
+    background: #00ab9f;
+}
+
+
+
+
+
